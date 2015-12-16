@@ -1,0 +1,308 @@
+{
+   "days": [
+      {
+         "day": 1,
+         "units": [
+            {
+               "unit": "1-L",
+               "time": "8:00 - 8:45",
+               "instructor": "A",
+               "title": "Appreciating Jehovah’s Organization and Theocratic Authority",
+               "refs": [
+                  {
+                     "name": "w10 12-15 14-15",
+                     "href": ""
+                  },
+                  {
+                     "name": "dw pars. 5-8, 25",
+                     "href": ""
+                  }
+               ]
+            },
+            {
+               "unit": "2-D",
+               "time": "8:45-9:30",
+               "instructor": "B",
+               "title": "Continue Strengthening Your Relationship with Jehovah",
+               "refs": [
+                  {
+                     "name": "nwt 1731-1735",
+                     "href": ""
+                  }
+               ]
+            },
+            {
+               "unit": "3-D",
+               "time": "9:45-10:00",
+               "instructor": "A",
+               "title": "Keep Pace with Spiritual Enlightenment–Part 1",
+               "refs": [
+                  {
+                     "name": "w11 5/15 26-27",
+                     "href": ""
+                  },
+                  {
+                     "name": "dw par. 13",
+                     "href": ""
+                  }
+               ]
+            },
+            {
+               "unit": "4-D",
+               "time": "10:30-11:15",
+               "instructor": "B",
+               "title": "Keep Pace with Spiritual Enlightenment–Part 2",
+               "refs": [
+                  {
+                     "name": "w11 7/15 24, 28",
+                     "href": ""
+                  },
+                  {
+                     "name": "w10 4/15 10",
+                     "href": ""
+                  }
+               ]
+            },
+            {
+               "unit": "DW-1",
+               "time": "11:15-11:45",
+               "instructor": "A",
+               "title": "Review Dwelling paragraphs 1-29",
+               "refs": [
+                  {
+                     "name": "dw pars. 1-29",
+                     "href": ""
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "day": 2,
+         "units": [
+            {
+               "unit": "5-L",
+               "time": "8:00 - 8:45",
+               "instructor": "A",
+               "title": "Clean and Orderly Ministers Observe Godly Laws and Principles",
+               "refs": [
+                  {
+                     "name": "dw pars. 15, 56-62, 125",
+                     "href": ""
+                  }
+               ]
+            },
+            {
+               "unit": "6-D",
+               "time": "8:45-9:30",
+               "instructor": "B",
+               "title": "Strengthening and Listening to the Conscience",
+               "refs": [
+                  {
+                     "name": "it-1 500-501",,
+                     "href": ""
+                  },
+                  {
+                     "name": "dw pars. 26, 28, 43-44, 47, 54-55, 79-80, 87-88",
+                     "href": ""
+                  }
+               ]
+            },
+            {
+               "unit": "7-L",
+               "time": "9:45-10:00",
+               "instructor": "A",
+               "title": "Be Balanced in All Things",
+               "refs": [
+                  {
+                     "name": "be 131-134",
+                     "href": ""
+                  },
+                  {
+                     "name": "dw pars. 13-16, 24-28, 43-44, 80, 87-89",
+                     "href": ""
+                  }
+               ]
+            },
+            {
+               "unit": "8-D",
+               "time": "10:30-11:15",
+               "instructor": "B",
+               "title": "History of the Organization–Part 1",
+               "refs": [
+                  {
+                     "name": "km 4/12 2",
+                     "href": ""
+                  },
+                  {
+                     "name": "Jehovah’s Witnesses—Faith in Action, Part 1: Out of Darkness",
+                     "href": ""
+                  }
+               ]
+            },
+            {
+               "unit": "DW-2",
+               "time": "11:15-11:45",
+               "instructor": "B",
+               "title": "Review Dwelling paragraphs 30-62",
+               "refs": [
+                  {
+                     "name": "dw pars. 30-62",
+                     "href": ""
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "day": 3,
+         "units": [
+            {
+               "unit": "9-D",
+               "time": "8:00 - 8:45",
+               "instructor": "A",
+               "title": "History of the Organization–Part 2",
+               "refs": [
+                  {
+                     "name": "km 5/12 3",
+                     "href": ""
+                  },
+                  {
+                     "name": "Jehovah’s Witnesses—Faith in Action, Part 2: Let the Light Shine",
+                     "href": ""
+                  },
+               ]
+            },
+            {
+               "unit": "10-L",
+               "time": "8:45-9:30",
+               "instructor": "B",
+               "title": "Your Attitude and Work Habits at Bethel",
+               "refs": [
+                  {
+                     "name": "w11 4/15 9-10",
+                     "href": ""
+                  },
+                  {
+                     "name": "dw pars. 23-24, 26, 119, 124",
+                     "href": ""
+                  }
+               ]
+            },
+            {
+               "unit": "11-D",
+               "time": "9:45-10:00",
+               "instructor": "A",
+               "title": "Make Effective Use of the New World Translation–Part 1 Reference Bible",
+               "refs": [
+                  {
+                     "name": "Rbi8 3-14",
+                     "href": ""
+                  },
+                  {
+                     "name": "si 308-309, 325-326, 331",
+                     "href": ""
+                  }
+               ]
+            },
+            {
+               "unit": "12-D",
+               "time": "10:30-11:15",
+               "instructor": "B",
+               "title": "Make Effective Use of the New World Translation–Part 2",
+               "refs": [
+                  {
+                     "name": "nwt App. A-B",
+                     "href": ""
+                  }
+               ]
+            },
+            {
+               "unit": "DW-3",
+               "time": "11:15-11:45",
+               "instructor": "A",
+               "title": "Review Dwelling paragraphs 63-93",
+               "refs": [
+                  {
+                     "name": "dw pars. 63-93",
+                     "href": ""
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "day": 4,
+         "units": [
+            {
+               "unit": "13-D",
+               "time": "8:00 - 8:45",
+               "instructor": "A",
+               "title": "Understanding the Great Spiritual Temple",
+               "refs": [
+                  {
+                     "name": "nwt App. B5",
+                     "href": ""
+                  },
+                  {
+                     "name": "w02 5/1 30-31",
+                     "href": ""
+                  },
+                  {
+                     "name": "it-2 1080-1081",
+                     "href": ""
+                  }
+               ]
+            },
+            {
+               "unit": "14-D",
+               "time": "8:45-9:30",
+               "instructor": "B",
+               "title": "Bible Covenants",
+               "refs": [
+                  {
+                     "name": "w14 10/15 7-17",
+                     "href": ""
+                  }
+               ]
+            },
+            {
+               "unit": "15-D",
+               "time": "9:45-10:00",
+               "instructor": "A",
+               "title": "Sovereignty–How Does it Affect You?",
+               "refs": [
+                  {
+                     "name": "it­2 1008­1012",
+                     "href": ""
+                  }
+               ]
+            },
+            {
+               "unit": "16-D",
+               "time": "10:30-11:15",
+               "instructor": "B",
+               "title": "The Transforming Power of the Truth",
+               "refs": [
+                  {
+                     "name": "w13 9/15 17-21",
+                     "href": ""
+                  }
+               ]
+            },
+            {
+               "unit": "DW-4",
+               "time": "11:15-11:45",
+               "instructor": "B",
+               "title": "Review Dwelling paragraphs 94-127",
+               "refs": [
+                  {
+                     "name": "dw pars. 94-127",
+                     "href": ""
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}
